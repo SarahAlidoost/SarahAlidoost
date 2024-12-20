@@ -1,4 +1,8 @@
-## Hi there 👋
+## About me
+
+I am a software engineer in environmental and sustainability domains, as well as a researcher in Geomatics and Remote Sensing. 
+I am experienced in statistical modeling, data processing, and software engineering, 
+with expertise in machine learning, optimization, and simulation techniques, and with an interest in interdisciplinary collaborations.
 
 <!--
 **SarahAlidoost/SarahAlidoost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
