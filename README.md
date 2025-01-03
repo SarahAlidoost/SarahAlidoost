@@ -20,14 +20,14 @@ with expertise in machine learning, optimization, and simulation techniques, and
 |[ewatercycle-II](https://research-software-directory.org/projects/ewatercycle-ii) | Water resource | Optimization, data processing, simulation | Python |
 |[mixed-effects-explainable-boosting-machines-for-spatiotemporal-phenological-modelling](https://research-software-directory.org/projects/mixed-effects-explainable-boosting-machines-for-spatiotemporal-phenological-modelling) | Environmental modelling | Optimization, data processing, machine learning | Python, R |
 | [rs-dat](https://research-software-directory.org/projects/rs-dat) | Earth Observation Science | Optimization, data processing, HPC | Python |
-|[ai4s2s](https://research-software-directory.org/projects/ai4s2s)| Climate models | Optimization, data processing, simulation | Python |
-|[CRISP](https://research-software-directory.org/projects/crisp)| Urban planning | Data processing | R |
+|[crisp](https://research-software-directory.org/projects/crisp)| Urban planning | Data processing | R |
 |[dianna](https://research-software-directory.org/projects/dianna) | Explainable AI| AI | Python|
-|[ivresse](https://research-software-directory.org/projects/ivresse) | Biology | Visualization | Python, React|
-|[mobyle](https://research-software-directory.org/projects/mobyle)| Earth Observation Science | Optimization, data processing, HPC | Python |
-|[a-new-perspective-on-global-vegetation-water-dynamics-from-radar-satellite-data](https://research-software-directory.org/projects/a-new-perspective-on-global-vegetation-water-dynamics-from-radar-satellite-data) |Earth Observation Science | Optimization, data processing, HPC | Python |
 |[computing-societal-dynamics-of-climate-change-adaptation-in-cities](https://research-software-directory.org/projects/computing-societal-dynamics-of-climate-change-adaptation-in-cities) | Climate models | Graphs, Optimization, simulation, machine learning | Python|
+|[mobyle](https://research-software-directory.org/projects/mobyle)| Earth Observation Science | Optimization, data processing, HPC | Python |
+|[ivresse](https://research-software-directory.org/projects/ivresse) | Biology | Visualization | Python, React|
+|[a-new-perspective-on-global-vegetation-water-dynamics-from-radar-satellite-data](https://research-software-directory.org/projects/a-new-perspective-on-global-vegetation-water-dynamics-from-radar-satellite-data) |Earth Observation Science | Optimization, data processing, HPC | Python |
 |[european-climate-prediction-system](https://research-software-directory.org/projects/european-climate-prediction-system)| Climate models | Storyboards | Nuxt |
+|[ai4s2s](https://research-software-directory.org/projects/ai4s2s)| Climate models | Optimization, data processing | Python |
 
 
 <!--
