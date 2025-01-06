@@ -23,7 +23,7 @@ with expertise in machine learning, optimization, and simulation techniques, and
 |[crisp](https://research-software-directory.org/projects/crisp)| Urban planning | Data processing | R |
 |[dianna](https://research-software-directory.org/projects/dianna) | Explainable AI| AI | Python|
 |[dianna and mexca](https://github.com/dianna-ai/dianna-mexca-demo) | Explainable AI| AI | Python|
-|[computing-societal-dynamics-of-climate-change-adaptation-in-cities](https://research-software-directory.org/projects/computing-societal-dynamics-of-climate-change-adaptation-in-cities) | Climate models | Graphs, Optimization, simulation, machine learning | Python|
+|[computing-societal-dynamics-of-climate-change-adaptation-in-cities](https://research-software-directory.org/projects/computing-societal-dynamics-of-climate-change-adaptation-in-cities) | Climate models | Network analysis, optimization, simulation, machine learning | Python|
 |[mobyle](https://research-software-directory.org/projects/mobyle)| Earth Observation Science | Optimization, data processing, HPC | Python |
 |[ivresse](https://research-software-directory.org/projects/ivresse) | Biology | Visualization | Python, React|
 |[a-new-perspective-on-global-vegetation-water-dynamics-from-radar-satellite-data](https://research-software-directory.org/projects/a-new-perspective-on-global-vegetation-water-dynamics-from-radar-satellite-data) |Earth Observation Science | Optimization, data processing, HPC | Python |
