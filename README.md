@@ -9,7 +9,7 @@ with expertise in machine learning, optimization, and simulation techniques, and
 | Project    | Scientific domain | Technical domain (my contributions) | Programming language |
 | -------- | ------- | ------- | ------- |
 |[hybridlabs](https://research-software-directory.org/projects/hybridlabs)- Work Package 2| Energy and natural resources | Machine learning, software development | Python |
-|[ecoextreml](https://research-software-directory.org/projects/ecoextreml) | Land surface models | Optimization, data processing, machine learning | Python, MATLAB |
+|[ecoextreml](https://research-software-directory.org/projects/ecoextreml) | Land surface models | Optimization, digital twins, data processing, machine learning | Python, MATLAB |
 |[digital-twins-for-early-warning-systems](https://research-software-directory.org/projects/digital-twins-for-early-warning-systems) | Environmental and sustainability | Digital twins | - |
 
 **Software engineering:**
