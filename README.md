@@ -25,6 +25,7 @@ An overview of the projects and software I have contributed to is available [her
 |[crisp](https://research-software-directory.org/projects/crisp)| Urban planning | Data processing | R |
 |[dianna](https://research-software-directory.org/projects/dianna) | Explainable AI| AI | Python|
 |[dianna and mexca](https://github.com/dianna-ai/dianna-mexca-demo) | Explainable AI| AI | Python|
+|[DEEPDIP](https://research-software-directory.org/projects/deepdip) |Deep physics models, differentiable programming| Visualization, benchmarking model performances | Julia|
 |[computing-societal-dynamics-of-climate-change-adaptation-in-cities](https://research-software-directory.org/projects/computing-societal-dynamics-of-climate-change-adaptation-in-cities) | Climate models | Network analysis, optimization, simulation, machine learning | Python|
 |[mobyle](https://research-software-directory.org/projects/mobyle)| Earth Observation Science | Optimization, data processing, HPC | Python |
 |[ivresse](https://research-software-directory.org/projects/ivresse) | Biology | Visualization | Python, React|
